@@ -2,6 +2,7 @@
     "name": "R18: Three factor eating questionnaire Survey",
     "template":"survey",
     "exp_id": "eating-survey",
+    "url": "https://github.com/expfactory-experiments/eating-survey",
     "cognitive_atlas_task_id": "trm_56aac5f6e4702",
     "contributors": [
              "Zeynep Enkavi",
